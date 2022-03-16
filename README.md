@@ -3,4 +3,4 @@ Some Description
 
 ## Subheader
 
-Watch my Youtub channel for tutorials
+Watch my Youtube channel for tutorials
